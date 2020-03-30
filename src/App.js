@@ -5,7 +5,7 @@ import MediaTable from './components/MediaTable';
 // eslint-disable-next-line require-jsdoc
 const App = () => {
   return (
-    <MediaTable media={picArray}/>
+    <MediaTable />
   );
 };
 
